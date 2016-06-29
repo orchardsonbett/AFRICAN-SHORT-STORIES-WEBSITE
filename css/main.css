@@ -1,0 +1,31 @@
+body {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 30px;
+    border: solid #777 30px;
+    font-family: 'Lobster', cursive;
+    background-color: darkgrey;
+}
+.title {
+    color: black;
+    font-family: 'Bungee Shade', cursive;
+}
+.center {
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+.nible {
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+.nav {
+    color: black;
+    font-size: 30px;
+    text-align: left;
+}
+
+.intro {
+    text-underline-position: below;
+}
